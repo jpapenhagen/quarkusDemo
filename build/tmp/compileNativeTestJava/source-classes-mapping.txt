@@ -1,0 +1,2 @@
+de/papenhagen/NativeExampleResourceIT.java
+ de.papenhagen.NativeExampleResourceIT

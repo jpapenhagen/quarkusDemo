@@ -1,0 +1,4 @@
+de/papenhagen/ExampleResource.java
+ de.papenhagen.ExampleResource
+de/papenhagen/service/HolidayService.java
+ de.papenhagen.service.HolidayService

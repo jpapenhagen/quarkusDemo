@@ -1,0 +1,2 @@
+de/papenhagen/ExampleResourceTest.java
+ de.papenhagen.ExampleResourceTest

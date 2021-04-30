@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="de.papenhagen.ExampleResourceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-04-30T13:52:37" hostname="jens-lap" time="1.032">
+  <properties/>
+  <testcase name="testHelloEndpoint()" classname="de.papenhagen.ExampleResourceTest" time="1.032"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Apr. 30, 2021 3:52:36 NACHM. org.jboss.threads.Version <clinit>
+INFO: JBoss Threads version 3.2.0.Final
+Apr. 30, 2021 3:52:36 NACHM. org.jboss.threads.Version <clinit>
+INFO: JBoss Threads version 3.2.0.Final
+Apr. 30, 2021 3:52:37 NACHM. io.quarkus.bootstrap.runner.Timing printStartupTime
+INFO: Quarkus 1.13.3.Final on JVM started in 1.133s. Listening on: http://localhost:8081
+Apr. 30, 2021 3:52:37 NACHM. io.quarkus.bootstrap.runner.Timing printStartupTime
+INFO: Profile test activated. 
+Apr. 30, 2021 3:52:37 NACHM. io.quarkus.bootstrap.runner.Timing printStartupTime
+INFO: Installed features: [cdi, resteasy]
+]]></system-err>
+</testsuite>
